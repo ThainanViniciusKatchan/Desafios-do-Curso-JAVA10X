@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println(" ");
 
-        NinjaAvancado Breno = new NinjaAvancado("Breno", 24, "Pouca Pika",
+        NinjaAvancado Breno = new NinjaAvancado("Breno", 24, "Amigo",
                 "Mestre em zerar video jogos");
 
         Breno.MostrarInfos();
